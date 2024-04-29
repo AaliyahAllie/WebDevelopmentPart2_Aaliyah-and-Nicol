@@ -1,0 +1,5 @@
+John Doe;j.doe@abc.co.za;29ef52e7563626a96cea7f4b4085c124
+Jane Smith;j.smith@def.co.za;1234567890abcdef
+Bob Johnson;b.johnson@ghi.co.za;fedcba9876543210
+Alice Brown;a.brown@jkl.co.za;9876543210fedcba
+Mike Davis;m.davis@mno.co.za;1234567890abcdef
